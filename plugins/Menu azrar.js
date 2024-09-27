@@ -40,7 +40,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 > ˼🤖˹↜ الــبــوت↶
 ╮───────────────────⟢ـ
 ┆⚙️ ↜اسـم الـبـوت↶﹝ESCONAR EL FAGERR﹞
-┆🪄 ↜الـمـطـور ↶﹝ESCONAR_BOT﹞
+┆🪄 ↜الـمـطـور ↶﹝ESCONAR_BOoT﹞
 ┆📌 ↜الـتـشـغـيـل ↶﹝${uptime}﹞
 ┆🔖 ↜الــمــســتـخـدمـيـن ↶﹝${rtotalreg}﹞
 ╯───────────────────⟢ـ
