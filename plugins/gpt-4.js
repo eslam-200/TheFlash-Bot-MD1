@@ -27,7 +27,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
     );
   } catch (error) {
     console.error(error);
-    m.reply('*مرحبا ضع سؤالك يا اخي 🤡*');
+    m.reply('*اسال يخويا والاستاذ اسكونر هيجاوب♥️*');
   }
 };
 
