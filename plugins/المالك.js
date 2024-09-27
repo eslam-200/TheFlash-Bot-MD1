@@ -4,8 +4,8 @@ function handler(m) {
 
 }
 
-handler.help = ['owner']
-handler.tags = ['main']
-handler.command = ['owner', 'مطور', 'المطور', 'المالك'] 
+handler.help = ['201098829097']
+handler.tags = ['ESCONAR']
+handler.command = ['201098829097', 'ESCONAR', 'BOT ESCONAR', 'ESCONAR'] 
 
 export default handler
